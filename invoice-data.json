@@ -1,0 +1,62 @@
+{
+  "company": {
+    "name": "RELIANCE RETAIL LIMITED",
+    "principalPlaceOfBusiness": "Road No. 8, Mumbai, Maharashtra 400002",
+    "details": "AP-VJYD-JC-01-RELIANCE RETAIL LIMITED\nSurvey no. 25, R.V. No, 11, B.N.T",
+    "gstin": "37AABCR1718E120",
+    "registeredOffice": "3rd Floor, Court House, Dhobi Talao, IN Mumbai 400002",
+    "phone": "22-3555 3800",
+    "cin": "MUMR19954E",
+    "website": "www.relianceretail.com"
+  },
+  "document": {
+    "type": "DELIVERY CHALLAN",
+    "number": "37100345214371",
+    "date": "29.09.2026",
+    "page": "1 of 1",
+    "copyType": "Original for Consignee"
+  },
+  "consigner": {
+    "name": "Reliance Retail Limited",
+    "address": "Mumbai, Maharashtra",
+    "gstin": "37AABCR1718E120"
+  },
+  "consignee": {
+    "name": "Arun Sharma",
+    "address": "Mumbai, Maharashtra 400010",
+    "gstin": "",
+    "placeOfSupply": "Mumbai"
+  },
+  "transporter": {
+    "name": "",
+    "consignmentNote": "",
+    "date": "",
+    "truckCarrierNo": "",
+    "internalRefNo": "4282887506"
+  },
+  "items": [
+    {
+      "itemNo": 1,
+      "articleHsn": "9200005173\n85044040",
+      "hsnCode": "85044040",
+      "articleId": "9200005173",
+      "description": "Poe Ejector Of Idu",
+      "eanNumber": "JPL542AVV",
+      "uom": "EA",
+      "quantity": 1,
+      "rate": 1040.00,
+      "taxableValue": 1040.00
+    }
+  ],
+  "totals": {
+    "totalMaterialValue": 1040.00,
+    "currency": "INR",
+    "amountInWords": "ONE THOUSAND FORTY RUPEES ONLY"
+  },
+  "statutoryReason": "The goods covered under the Delivery Challan, are sent other than by way of supply as per Rule 55(1)(c) for installation at customer place or JIO Fibre connection on behalf of KJIL.",
+  "signatories": [
+    { "role": "Prepared By", "signature": "", "name": "" },
+    { "role": "Checked & Authorised By", "signature": "", "name": "" },
+    { "role": "Received By", "signature": "", "name": "" }
+  ]
+}
